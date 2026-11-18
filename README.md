@@ -35,3 +35,14 @@
 三个演示均为 AI 辅助制作的个人交互原型，不属于任何公司的正式生产系统，不代表真实模型测评、企业业务结果或广告投放效果。请勿输入公司机密、个人敏感信息、账户凭据或密钥。
 
 本次归档保留原发布版本源码，仅将三个导出的入口文件分别命名为 `TraceDesk.html`、`EvalLab.html`、`GrowthLens.html`，未改变演示交互实现。
+
+## FDE Workbench｜独立公开工具
+
+新增独立公开网页版，不复制任何被禁止对外分享的应用，不包含内部原文、客户信息或凭据。原首页及以上演示保持不变。
+
+- [打开工作台](./fde-workbench/FDE-Workbench.html)
+- [FieldSpec｜需求转交付规格](./fde-workbench/FDE-Workbench.html#fieldspec)
+- [LoopOps｜求助与交付待办](./fde-workbench/FDE-Workbench.html#loopops)
+- [BridgeCheck｜接口映射与校验](./fde-workbench/FDE-Workbench.html#bridgecheck)
+
+在 GitHub 文件页只能查看源码；通过本仓库的 GitHub Pages 对应路径打开即可使用网页。详情见 [公开版说明](./fde-workbench/README.md)。
